@@ -1,5 +1,5 @@
 {
-  "name": "thai-address-database",
+  "name": "@devilznat/thai-address-database",
   "version": "0.0.1",
   "description": "",
   "main": "lib/index.js",
